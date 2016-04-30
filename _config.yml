@@ -5,7 +5,7 @@ locale: en_US
 description: Share my knowledge with my friends
 logo: site-logo.png
 search: true
-url: http://atinjin.giyhub.io
+#url: http://atinjin.giyhub.io
 
 # Jekyll configuration
 

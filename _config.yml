@@ -5,7 +5,7 @@ locale: en_US
 description: Share my knowledge with my friends
 logo: site-logo.png
 search: true
-#url: http://atinjin.giyhub.io
+url: http://localhost:4000
 
 # Jekyll configuration
 
@@ -51,7 +51,7 @@ owner:
   name: Ryan Jin
   avatar: bio-photo.jpg
   email: ryanjin_blog@icloud.com
-  disqus-shortname: donghyunjin
+  disqus-shortname: :donghyunjin
   twitter: #atinjin
   facebook: #atinjin
   github: #atinjin

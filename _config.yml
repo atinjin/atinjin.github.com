@@ -6,6 +6,7 @@ description: Share my knowledge with my friends
 logo: site-logo.png
 search: true
 url: http://blog.ryanjin.net
+comments: true
 
 # Jekyll configuration
 
@@ -51,7 +52,7 @@ owner:
   name: Ryan Jin
   avatar: bio-photo.jpg
   email: ryanjin_blog@icloud.com
-  disqus-shortname: :donghyunjin
+  disqus-shortname: blogryanjinnet
   twitter: #atinjin
   facebook: #atinjin
   github: #atinjin

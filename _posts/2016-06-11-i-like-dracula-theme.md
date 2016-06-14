@@ -52,6 +52,7 @@ export PS1="⌦ \e[0;36m\h\e[m@\W\e[0;36m$\e[m"
 ~~~
 
 ## Result
+
 You can see the Dracula Terminal, now.
 
 <figure class="half">
@@ -70,6 +71,7 @@ Vim has many plugins for editing and coding. This web site instroduce you most o
 Here is the steps apply vim-plugins.
 - Download the Vim Plugins Manager
   - [vim-plug](https://github.com/junegunn/vim-plug)
+
 ~~~
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim

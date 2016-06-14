@@ -68,6 +68,13 @@ Vim has many plugins for editing and coding. This web site instroduce you most o
 [vim-awesome](http://www.vimawesome.com)
 
 Here is the steps apply vim-plugins.
+- Download the Vim Plugins Manager
+  - [vim-plug](https://github.com/junegunn/vim-plug)
+~~~
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+~~~
+
 - find and edit the *.vimrc* file.
   - path : ~/.vimrc
 - add the follow script first.

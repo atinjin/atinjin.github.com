@@ -12,4 +12,4 @@ date: 2016-06-21T08:25:55+09:00
 
 This is what you know. If you believe you are living in capitalism.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fgroups%2Fjdny2014%2Fpermalink%2F608949512598197%2F&width=500" width="500" height="454" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0LYMTsj_eqc" frameborder="0" allowfullscreen></iframe>

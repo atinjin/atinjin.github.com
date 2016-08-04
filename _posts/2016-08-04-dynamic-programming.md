@@ -11,7 +11,7 @@ date: 2016-08-04T16:41:36+09:00
 ---
 
 <figure>
-	<a href="{{ site.url }}//images/knapsack.svg"><img src="{{ site.url }}//images/knapsack.svg"></a>
+	<a href="{{ site.url }}//images/dynamic_programming.jpeg"><img src="{{ site.url }}//images/dynamic_programming.jpeg"></a>
 	<caption></caption>
 </figure>
 

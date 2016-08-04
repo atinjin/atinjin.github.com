@@ -1,7 +1,6 @@
 ---
-title: Dynamic Programming
 layout: post
-title: 글쓰기에만 집중할 수 있는 시스템 - Markdown
+title: Dynamic Programming
 modified:
 categories: blog
 excerpt:
@@ -14,7 +13,7 @@ date: 2016-08-04T16:41:36+09:00
 <figure>
 	<a href="{{ site.url }}//images/knapsack.svg"><img src="{{ site.url }}//images/knapsack.svg"></a>
 	<caption></caption>
-	</figure>
+</figure>
 
 ## 개념
 번역하면 동적 계획법이라고 할 수 있습니다. 하나의 문제를 풀기 위해서 큰 단위의 문제를 작은 단위의 문제로 나누는 **Devide and Conquar** 방식을 사용합니다. 여기에 더하여 **중복**되는 계산 결과를 저장(*Memoization*)하는 과정을 추가합니다. 이를 이용하여 전체 계산 과정 중 중복되는 결과값을 캐쉬(*cache*)에 저장 해두었다가 재활용하여 계산 속도를 향상시키는 기법입니다.

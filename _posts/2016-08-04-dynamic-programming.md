@@ -6,7 +6,7 @@ categories: blog
 excerpt:
 tags: []
 image:
-	- url:/images/dynamic_programming.jpg
+	- url:{{ site.url }}//images/dynamic_programming.jpg
 	  alt: Dynamic Programming is Difficult?
 	  title: Dynamic Programming is easy.
 date: 2016-08-04T16:41:36+09:00

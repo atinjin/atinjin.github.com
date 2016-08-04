@@ -1,5 +1,13 @@
 ---
 title: Dynamic Programming
+layout: post
+title: 글쓰기에만 집중할 수 있는 시스템 - Markdown
+modified:
+categories: blog
+excerpt:
+tags: []
+image:
+   feature:
 date: 2016-08-04T16:41:36+09:00
 ---
 

@@ -13,7 +13,7 @@ date: 2016-08-09T08:32:11+09:00
 # Traveling Sales-man Problem
 
 <figure>
-    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/GLPK_solution_of_a_travelling_salesman_problem.svg/512px-GLPK_solution_of_a_travelling_salesman_problem.svg.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/GLPK_solution_of_a_travelling_salesman_problem.svg/512px-GLPK_solution_of_a_travelling_salesman_problem.svg.png"></a>
+    <a href="https://static01.nyt.com/images/2012/03/14/theater/14salesman-map/14salesman-map-custom1.jpg"><img src="https://static01.nyt.com/images/2012/03/14/theater/14salesman-map/14salesman-map-custom1.jpg"></a><br>
     <caption>외판원 여행 문제</caption>
 </figure>
 
@@ -82,6 +82,6 @@ Recursive Function을 실행했다는 것은 심각한 문제입니다. **무한
 ## 10군데 이상이면 어떻하죠?
 10군데 이상이면 문제입니다. [12!](https://en.wikipedia.org/wiki/Factorial) 만 되더라도 총 경우의 수는 479,001,600개 입니다. 보통 CPU가 2GHz라고 했을때, 초당 2억번의 계산을 할 수 있다고 할 수 있습니다. 그러면 12!의 경우는 2초 이상이 걸리기 때문에 1초라는 제한 시간내에 풀어낼 수가 없습니다. 어떻게 해야 할까요?
 
-![멘붕](https://cdn.namuwikiusercontent.com/87/872f372fcd5460278c71a34e02b80656bb4198d591ceb72c17bdeb262c6d8290.png?e=1476752784&k=tySt3YPlntI3f_z_-mxoeg)
+![멘붕](https://cdn.namuwikiusercontent.com/87/872f372fcd5460278c71a34e02b80656bb4198d591ceb72c17bdeb262c6d8290.png?e=1476752784&k=tySt3YPlntI3f_z_-mxoeg "최적화 방법을 찾아야 해!")
 
 뭐~~~ 다른 방법을 찾아야죠...

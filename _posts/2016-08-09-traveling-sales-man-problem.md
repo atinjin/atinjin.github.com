@@ -11,9 +11,10 @@ date: 2016-08-09T08:32:11+09:00
 ---
 
 # Traveling Sales-man Problem
+
 <figure>
     <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/GLPK_solution_of_a_travelling_salesman_problem.svg/512px-GLPK_solution_of_a_travelling_salesman_problem.svg.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/GLPK_solution_of_a_travelling_salesman_problem.svg/512px-GLPK_solution_of_a_travelling_salesman_problem.svg.png"></a>
-    <caption></caption>
+    <caption>외판원 여행 문제</caption>
 </figure>
 
 
@@ -75,7 +76,7 @@ Recursive Function을 실행했다는 것은 심각한 문제입니다. **무한
 그래서 Recursive Function에는 안전 장치가 필요합니다. 그것이 바로 **Base Case** 입니다. 바로 Recursive Call의 탈출구입니다. 끝없을 것 같았던 무한 루프를 탈출시키는 워프 역할을 합니다.
 <figure>
     <a href="http://www.popsci.com/sites/popsci.com/files/styles/large_1x_/public/import/2013/images/2013/03/thwarpdrive_980.jpg?itok=eu3bZABd"><img src="http://www.popsci.com/sites/popsci.com/files/styles/large_1x_/public/import/2013/images/2013/03/thwarpdrive_980.jpg?itok=eu3bZABd"></a>
-    <caption></caption>
+    <caption>무한 루프의 탈출구</caption>
 </figure>
 
 ## 10군데 이상이면 어떻하죠?

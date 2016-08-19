@@ -12,6 +12,8 @@ date: 2016-08-19T08:11:09+09:00
 
 # 바퀴를 또 발명하려 하지 마세요.
 
+![reinvent the wheel](http://www.scotthoward.me/wp-content/uploads/2016/02/q.png)
+
 최근에 있었던 일입니다. 문제 상황은 다음과 같았습니다.
 
 ## Practical Problem
@@ -26,6 +28,8 @@ DB의 특정 테이블의 row마다 순번이 메겨져 있을 경우, 순번을
 모든 아이템에 순서를 부여해야한다. 아이템의 수는 선형적으로 늘어날 수 있고 수의 제한이 없을 수도 있다. 이 때 **아이템의 순서 변경**시 계산을 최소화할 수 있는 방법은 무엇일까?
 
 추상화된 문제는 어디선가 많이 보던 문제이다. 바로 "배열(Array)"에 대한 문제와 같았다. 배열을 정렬할 때 중간에 어떤 원소를 집어 넣어야 할 경우 보통은 하나씩 옆칸으로 복사한 후 공간을 만들어 추가를 한다. 그러나 이러한 경우 **원소 추가**마다 O(n)의 수행 시간이 걸리기 때문에 문제가 될 수 있다. 그래서 생각해낸것이 **Linked List**이다.
+
+![Linked List](http://people.engr.ncsu.edu/efg/210/s99/Notes/LLdefs.gif)
 
 
 > The principal benefit of a linked list over a conventional array is that the list elements can easily be inserted or removed without reallocation or reorganization of the entire structure because the data items need not be stored contiguously in memory or on disk, while an array has to be declared in the source code, before compiling and running the program. Linked lists allow insertion and removal of nodes at any point in the list, and can do so with a constant number of operations if the link previous to the link being added or removed is maintained during list traversal.

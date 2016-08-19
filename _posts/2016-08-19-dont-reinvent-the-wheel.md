@@ -46,6 +46,7 @@ DB의 특정 테이블의 row마다 순번이 메겨져 있을 경우, 순번을
 - Insertion and deletion node operations are easily implemented in a linked list.
 - Linear data structures such as stacks and queues are easily executed with a linked list.
 - They can reduce access time and may expand in real time without memory overhead.
+
 ## Disadvantages
 - They use more memory than arrays because of the storage used by their pointers.
 - Nodes in a linked list must be read in order from the beginning as linked lists are inherently sequential access.

@@ -2,9 +2,9 @@
 layout: post
 title: Event Collaboration
 modified:
-categories: 
+categories: blogs
 excerpt:
-tags: []
+tags: [system]
 image:
   feature:
 date: 2016-12-26T17:40:26+09:00

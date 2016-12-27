@@ -2,7 +2,7 @@
 layout: post
 title: Event Collaboration
 modified:
-categories: blogs
+categories: blog
 excerpt:
 tags: [system]
 image:
@@ -12,4 +12,7 @@ date: 2016-12-26T17:40:26+09:00
 
 # Event Collaboration
 
+## 기존 시스템에서의 협업 방법
+
+현재 시스템에서는 기본적으로 “Request”를 이용하여 자료를 처리하는 것으로 가정하고 있다.  이는 Responsibility를 명확히 할 수 있고, 데이터 처리의 시작과 끝( Transaction)을 관리할 수 있다는 장점이 있다. 단점이라고 한다면 모든 것이 관리 영역내에 있어야 한다는 것이다. “Requester”는 어떤 명령(Command)를 어떤 Component에 보내서 어떤 Response를 받을지 알아야 한다는 것이다. 
 

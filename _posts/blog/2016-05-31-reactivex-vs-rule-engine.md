@@ -2,7 +2,7 @@
 layout: post
 title: ReactiveX vs Rule Engine
 modified:
-categories: 
+categories: blog
 excerpt:
 tags: []
 image:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Tom Sawyer Effect
-modified:
 categories: blog
 excerpt:
 tags: [kids, family]

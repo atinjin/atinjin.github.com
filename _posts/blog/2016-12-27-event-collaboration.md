@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Event Collaboration
-modified:
 categories: blog
 excerpt:
 tags: [system]

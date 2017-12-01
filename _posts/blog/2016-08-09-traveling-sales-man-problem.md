@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Traveling Sales-man Problem
-modified:
 categories: blog
 excerpt:
 tags: [algorithm, TSP]

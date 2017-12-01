@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Dynamic Programming
-modified:
 categories: blog
 excerpt:
 tags: [algorithm, dp]

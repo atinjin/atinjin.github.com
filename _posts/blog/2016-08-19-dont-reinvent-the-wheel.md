@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Don't Reinvent the Wheel
-modified:
 categories: blog
 excerpt:
 tags: [data_structure, algorithm]

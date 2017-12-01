@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Money Is Debt
-modified:
 categories: blog
 excerpt:
 tags: []

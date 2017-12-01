@@ -2,12 +2,12 @@
 layout: {{ layout }}
 title: {{ title }}
 categories: {{ dir }}
-excerpt:
+excerpt: {{ title }}
 tags: []
 comments: true
 share: true
 image:
-  feature:
-date:
+  feature: so-simple-sample-image-5.jpg
+date: {{ date }}
 modified:
 ---

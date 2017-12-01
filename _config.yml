@@ -6,7 +6,7 @@ description: Share my knowledge with my friends
 logo: site-logo.png
 search: true
 url: https://blog.ryanjin.net
-enforce_ssl: www.yoursite.com
+enforce_ssl: blog.ryanjin.net
 
 # Jekyll configuration
 permalink:   /:categories/:title/

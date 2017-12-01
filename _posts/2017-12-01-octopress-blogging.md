@@ -14,6 +14,7 @@ modified:
 
 # Octopress 란?
 
+![Octopress Image](\images\octopress-image.jpg)
 
 _Octopress_ 는 지킬 블로그에 포스트를 쉽게 쓸 수 있도록 도와주는 도구입니다.
 

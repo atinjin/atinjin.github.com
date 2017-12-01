@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Event Collaboration
-categories: blog
+categories: articles
 excerpt:
-tags: [system]
+tags: [system, event]
 image:
   feature:
 comments: true

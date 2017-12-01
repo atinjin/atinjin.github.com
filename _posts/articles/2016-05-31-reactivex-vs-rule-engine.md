@@ -2,9 +2,9 @@
 layout: post
 title: ReactiveX vs Rule Engine
 modified:
-categories: blog
+categories: articles
 excerpt:
-tags: []
+tags: [reactivex, rule]
 image:
   feature:
 comments: true

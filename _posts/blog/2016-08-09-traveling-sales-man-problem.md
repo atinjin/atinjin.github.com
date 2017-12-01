@@ -7,7 +7,9 @@ excerpt:
 tags: [algorithm, TSP]
 image:
   feature:
-date: 2016-08-09T08:32:11+09:00
+comments: true
+share: true
+modified: 2016-08-09T08:32:11+09:00
 ---
 
 # Traveling Sales-man Problem

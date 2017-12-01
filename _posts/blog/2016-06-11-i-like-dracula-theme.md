@@ -7,7 +7,9 @@ excerpt:
 tags: []
 image:
   feature:
-date: 2016-06-11T11:09:56+09:00
+comments: true
+share: true
+modified: 2016-06-11T11:09:56+09:00
 ---
 
 I like 'Dracula Theme'. So I will show you the way converting to Dark Theme at Mac OSX.

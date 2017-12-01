@@ -7,7 +7,9 @@ excerpt:
 tags: [data_structure, algorithm]
 image:
   feature:
-date: 2016-08-19T08:11:09+09:00
+comments: true
+share: true
+modified: 2016-08-19T08:11:09+09:00
 ---
 
 # 바퀴를 또 발명하려 하지 마세요.

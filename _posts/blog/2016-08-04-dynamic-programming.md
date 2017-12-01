@@ -5,7 +5,9 @@ modified:
 categories: blog
 excerpt:
 tags: [algorithm, dp]
-date: 2016-08-04T16:41:36+09:00
+comments: true
+share: true
+modified: 2016-08-04T16:41:36+09:00
 ---
 
 <figure>

@@ -7,7 +7,9 @@ excerpt:
 tags: []
 image:
   feature:
-date: 2016-07-15T08:44:11+09:00
+comments: true
+share: true
+modified: 2016-07-15T08:44:11+09:00
 ---
 
 ## 읽을 수 있어야 코드이지 아니면 그냥 암호죠.

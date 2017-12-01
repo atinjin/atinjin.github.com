@@ -7,7 +7,9 @@ excerpt:
 tags: []
 image:
   feature:
-date: 2016-06-21T08:25:55+09:00
+comments: true
+share: true
+modified: 2016-06-21T08:25:55+09:00
 ---
 
 This is what you know. If you believe you are living in capitalism.

@@ -7,7 +7,9 @@ excerpt:
 tags: [kids, family]
 image:
   feature:
-date: 2016-08-12T20:58:30+09:00
+comments: true
+share: true
+modified: 2016-08-12T20:58:30+09:00
 ---
 
 # 톰 소여 효과

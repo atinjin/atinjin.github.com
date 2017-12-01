@@ -5,7 +5,8 @@ locale: en_US
 description: Share my knowledge with my friends
 logo: site-logo.png
 search: true
-url: http://blog.ryanjin.net
+url: https://blog.ryanjin.net
+enforce_ssl: www.yoursite.com
 
 # Jekyll configuration
 permalink:   /:categories/:title/

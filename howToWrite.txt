@@ -1,6 +1,6 @@
 Octopress를 이용하여 블로그 글쓰기
 
-$>octopress new post title_of_article
+$>octopress new post -D blog "title_of_article"
 
 도움말을 보고 싶으면
 $>octopress docs

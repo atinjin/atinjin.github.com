@@ -4,6 +4,8 @@ title: {{ title }}
 categories: {{ dir }}
 excerpt:
 tags: []
+comments: true
+share: true
 image:
   feature:
 date:

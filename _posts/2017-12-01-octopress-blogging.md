@@ -2,15 +2,17 @@
 layout: post
 title: Octopress를 이용한 Blog Posting
 categories: blog
-excerpt:
+excerpt: 지킬에서 쉽게 포스트 쓰기
 tags: [octopress, posting]
+comments: true
+share: true
 image:
   feature:
-date: 2017-12-91T13:46:51+09:00
+date: 2017-12-01T13:46:51+09:00
 modified:
 ---
 
-##Octopress 란?
+# Octopress 란?
 
 
 _Octopress_ 는 지킬 블로그에 포스트를 쉽게 쓸 수 있도록 도와주는 도구입니다.

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: My Articles
-excerpt: "An archive of articles sorted by date."
+title: How to write the blog
+excerpt: "Expain the how-to writing"
 search_omit: true
 ---
 

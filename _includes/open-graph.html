@@ -10,6 +10,7 @@
 <meta name="twitter:card" content="summary">
 <meta name="twitter:image" content="{% if page.image.thumb %}{{ site.url }}/images/{{ page.image.thumb }}{% else %}{{ site.url }}/images/{{ site.logo }}{% endif %}">
 {% endif %}
+
 <!-- Open Graph -->
 <meta property="og:locale" content="{{ site.locale }}">
 <meta property="og:type" content="article">
@@ -17,3 +18,19 @@
 {% if page.excerpt %}<meta property="og:description" content="{{ page.excerpt | strip_html }}">{% endif %}
 <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 <meta property="og:site_name" content="{{ site.title }}">
+
+{% if page.header-img %}
+<meta property="og:image" content="{{ site.url }}/images/{{ page.header-img }}" />
+{% elsif page.image.feature %}
+<meta property="og:image" content="{{ site.url }}/images/{{ page.image.feature }}" />
+{% else %}
+<meta property="og:image" content="{{ site.url }}/images/{{ site.logo }}" />
+{% endif %}
+
+{% if page.subtitle %}
+<meta property="og:description" content="{{ page.subtitle }}" />
+{% elsif page.excerpt %}
+<meta property="og:description" content="{{ page.excerpt }}" />
+{% endif %}
+
+<meta property="og:article:author" content="{{ page.author }}" />

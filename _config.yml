@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: Like a Hacker, RyanJin
-locale: en_US
+locale: ko_KR
 description: Share my knowledge with my friends
 logo: site-logo.png
 search: true

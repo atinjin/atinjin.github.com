@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Octopress를 이용한 Blog Posting
-categories: blog
+categories: setup
 excerpt: 지킬에서 쉽게 포스트 쓰기
 tags: [octopress, posting, 글쓰기, 블로깅, jekyll]
 comments: true

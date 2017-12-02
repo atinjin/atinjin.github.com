@@ -43,6 +43,16 @@
       </footer>
       <div class="entry-content">
         {{ content | toc }}
+        {% if site.related_posts.size >= 1 %}
+        <div>
+          <h3>Related Posts</h3>
+          <ul>
+            {% for related_post in site.related_posts limit: 5 %}
+            <li><a href="{{ related_post.url }}">{{ related_post.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+        {% endif %}
         {% if site.owner.disqus-shortname and page.comments or site.comments %}
           <div id="disqus_thread"></div><!-- /#disqus_thread -->
           {% include disqus-comments.html %}

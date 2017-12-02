@@ -20,6 +20,8 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-toc
+  - jekyll/tagging
+  - jekyll-tagging-related_posts
 
 kramdown:
   input: GFM

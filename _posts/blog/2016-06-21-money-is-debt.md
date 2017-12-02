@@ -3,7 +3,7 @@ layout: post
 title: Money Is Debt
 categories: blog
 excerpt:
-tags: []
+tags: [video]
 image:
   feature:
 comments: true

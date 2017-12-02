@@ -4,7 +4,7 @@ title: I Like Dracula Theme.
 modified:
 categories: blog
 excerpt:
-tags: []
+tags: [ide, theme]
 image:
   feature:
 comments: true

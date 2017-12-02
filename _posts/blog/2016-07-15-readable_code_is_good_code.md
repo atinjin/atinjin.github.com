@@ -4,7 +4,7 @@ title: 읽기 좋은 코드가 좋은 코드다.
 modified:
 categories: blog
 excerpt:
-tags: []
+tags: [coding]
 image:
   feature:
 comments: true

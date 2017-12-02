@@ -3,7 +3,7 @@ layout: post
 title: What Is the Erlang?
 categories: blog
 excerpt: What Is the Erlang?
-tags: []
+tags: [language, erlang, functional]
 comments: true
 share: true
 image:

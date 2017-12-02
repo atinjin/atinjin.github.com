@@ -2,7 +2,7 @@
 layout: post
 title: Don't Reinvent the Wheel
 categories: blog
-excerpt:
+excerpt: 같은 일을 두번하지 않는 지혜
 tags: [data_structure, algorithm]
 image:
   feature:

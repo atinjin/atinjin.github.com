@@ -46,6 +46,11 @@ page_layout: page
 ## Format titles with titlecase?
 titlecase: true
 
+# replated posts
+related:
+  min_score: 0.1
+  accuracy: 0.9
+
 # Site owner
 owner:
   name: Ryan Donghyun Jin

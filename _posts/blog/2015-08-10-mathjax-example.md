@@ -3,7 +3,7 @@ layout: post
 title: "MathJax Example"
 categories: blog
 excerpt:
-tags: []
+tags: [markdown, 수학공식, math]
 image:
   feature:
 modified: 2015-08-10T08:08:50-04:00

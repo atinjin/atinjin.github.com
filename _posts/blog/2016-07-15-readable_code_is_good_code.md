@@ -3,7 +3,7 @@ layout: post
 title: 읽기 좋은 코드가 좋은 코드다.
 modified:
 categories: blog
-excerpt:
+excerpt: 암호 같지 않은 코드 쓰기
 tags: [coding]
 image:
   feature:

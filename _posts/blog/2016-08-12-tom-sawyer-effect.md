@@ -2,8 +2,8 @@
 layout: post
 title: Tom Sawyer Effect
 categories: blog
-excerpt:
-tags: [kids, family]
+excerpt: 육아의 기술
+tags: [kids, family, 육아]
 image:
   feature:
 comments: true

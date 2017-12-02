@@ -3,8 +3,8 @@ layout: post
 title: I Like Dracula Theme.
 modified:
 categories: blog
-excerpt:
-tags: [ide, theme]
+excerpt: IDE 테마를 고른다면...
+tags: [ide, theme, dark]
 image:
   feature:
 comments: true

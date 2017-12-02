@@ -2,8 +2,8 @@
 layout: post
 title: Money Is Debt
 categories: blog
-excerpt:
-tags: [video]
+excerpt: 돈을 가지고 있는 것만으로 빚이 되는 세상
+tags: [video, 경제, 사회]
 image:
   feature:
 comments: true

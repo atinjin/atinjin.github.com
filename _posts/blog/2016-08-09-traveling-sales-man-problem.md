@@ -3,7 +3,7 @@ layout: post
 title: Traveling Sales-man Problem
 categories: blog
 excerpt:
-tags: [algorithm, TSP]
+tags: [algorithm, TSP, programming]
 image:
   feature:
 comments: true

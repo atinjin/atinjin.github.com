@@ -3,7 +3,7 @@ layout: post
 title: Dynamic Programming
 categories: blog
 excerpt:
-tags: [algorithm, dp]
+tags: [algorithm, dp, programming]
 comments: true
 share: true
 modified: 2016-08-04T16:41:36+09:00

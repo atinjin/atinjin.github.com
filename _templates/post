@@ -8,6 +8,7 @@ comments: true
 share: true
 image:
   feature: so-simple-sample-image-5.jpg
+author: {{ ryan_jin.name }}
 date: {{ date }}
 modified:
 ---

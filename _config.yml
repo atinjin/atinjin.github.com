@@ -20,8 +20,6 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-toc
-  - jekyll/tagging
-  - jekyll-tagging-related_posts
 
 kramdown:
   input: GFM
@@ -57,20 +55,20 @@ owner:
   avatar: bio-photo.jpg
   email: ryanjin_blog@icloud.com
   disqus-shortname: blogryanjinnet
-  twitter: #atinjin
+  twitter: atinjin
   facebook: #atinjin
   github: #atinjin
   stackexchange: #http://stackoverflow.com/users/5191620/donghyun-jin
-  linkedin: #atinjin
-  instagram: #atinjin
+  linkedin: atinjin
+  instagram: atinjin
   flickr: #username
   tumblr: #username
   pinterest: #username
   weibo: #userid
   google:
     plus: #atinjin
-    analytics: #UA-110508122-1
-    verify:
+    analytics: UA-110508122-1
+    verify: S1oLeES83Ay989JT_RVJyVHHXZgpKie0wtTcX8T6sIA
     ad-client:
     ad-slot:
   bing-verify:

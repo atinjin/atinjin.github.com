@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MathJax Example"
-categories: blog
+categories: setup
 excerpt:
 tags: [markdown, 수학공식, math]
 image:

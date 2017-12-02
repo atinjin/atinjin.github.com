@@ -8,6 +8,8 @@ comments: true
 share: true
 image:
   feature: so-simple-sample-image-5.jpg
+header-img: Erlang_logo.png
+subtitle: "최근 다양한 프로그래밍 언어가 나오고 있습니다. 얼랭의 경우 개발된지 오래된 언어지만 그 특장점 때문에 현재도 쓰이고 있는 언어입니다. 언어에 맞는 솔루션 분야가 있습니다."
 date: 2017-12-01T14:30:43+09:00
 modified:
 ---

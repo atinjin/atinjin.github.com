@@ -17,9 +17,9 @@
 <link href="{{ site.url }}/feed.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 
 {% if page.header-img %}
-<meta property="og:image" content="{{ site.url }}/{{ page.header-img }}" />
+<meta property="og:image" content="{{ site.url }}/images/{{ page.image.feature }}" />
 {% endif %}
-<meta property="og:description" content="{{ page.subtitle }}" />
+<meta property="og:description" content="{{ page.excerpt }}" />
 
 <!-- https://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">

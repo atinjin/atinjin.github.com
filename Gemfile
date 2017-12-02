@@ -20,7 +20,7 @@ group :jekyll_plugins do
   gem "jekyll-gist"
   gem "jekyll-sitemap"
   gem "jekyll-toc"
-  gem 'jekyll-tagging'
+  gem "jekyll-tagging"
   gem "jekyll-tagging-related_posts"
 end
 

@@ -27,11 +27,11 @@ modified:
 각각의 목적을 달성하기 위해서 어떠한 장치를 준비했는지 알아보겠습니다.
 얼랭은 덴마크 수학자 이름이자 "Ericsson Language"의 약자이기도 합니다. 얼랭은 CouchDB, Amazon SimpleDB, Facebook 채탱 프로그램에도 쓰입니다. 
 
-![CouchDB](\images\couch@2x.png)
-*CouchDB*
-
-![SimpleDB](https://en.wikipedia.org/wiki/File:AWS_Simple_Icons_Database_Amazon_SimpleDB_Item.svg)
-*Amazon SimpleDB*
+<figure class="half">
+	<img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/CouchDB.svg/256px-CouchDB.svg.png"></a>
+	<img src="https://upload.wikimedia.org/wikipedia/uk/4/40/Simpledb.jpg">
+	<figcaption>Apache CouchDB / Amazon SimpleDB<figcaption>
+</figure>
 
 # 안정성을 위해 Let it be. 
 

@@ -30,7 +30,7 @@ modified:
 <figure class="half">
 	<img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/CouchDB.svg/256px-CouchDB.svg.png">
 	<img src="https://upload.wikimedia.org/wikipedia/uk/4/40/Simpledb.jpg">
-	<figcaption>Apache CouchDB / Amazon SimpleDB<figcaption>
+	<figcaption>Apache CouchDB / Amazon SimpleDB</figcaption>
 </figure>
 
 # 안정성을 위해 Let it be. 

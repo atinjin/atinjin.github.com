@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 킨들에서 한글책 읽어봤나?
-categories: 
+categories: reading
 excerpt: 킨들에서 국내서적 일고 싶은 분, 손?
 tags: [kindle, 킨들, 한국책, korean, book, ebook, calibre, dedrm]
 comments: true

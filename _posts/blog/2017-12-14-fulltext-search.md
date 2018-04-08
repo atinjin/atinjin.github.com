@@ -14,7 +14,7 @@ modified: 2018-03-07T12:20:00+09:00
 
 ## Full-text Search
 <figure class="half">
-    <img src="../images/fulltextsearch.jpg">
+    <img src="../../images/fulltextsearch.jpg">
     <figcaption>Full-text Search</figcaption>
 </figure>
 
@@ -28,6 +28,10 @@ Full-Text 검색은 텍스트를 다양한 방식으로 미리 분석하여 인�
 Hiberanate-Search는 Lucene을 사용하여 Full-text Search 기능을 제공합니다. 가장 큰 장점은 ORM을 통해 손쉽게 설정, 인덱싱 및 쿼리가 가능하다는 것입니다. 궁합이 잘 맞는다고 할 수 있습니다.
 
 ### Lucene이란?
+<figure class="half">
+    <img src="../../images/lucene-logo.png">
+    <figcaption>Lucene Logo</figcaption>
+</figure>
 Full-Test 검색은 Hibernate가 지원해주는 것이 아니라 "Lucene"이라는 라이브러리를 사용하는 것입니다. 그렇기 때문에 기능을 사용하기 위해서는 먼저 Lucene이 무엇인지를 알아야 합니다.
 Lucene은 인덱싱/검색 라이브러리입니다. 특징은 문자열만을 입력으로 받는다는 것이다. 문자열만을 입력으로 받기 때문에 문서 형식이 HTML,XML, PDF, Work이든 상관없이 분석이 가능합니다.
 
@@ -59,6 +63,11 @@ Lucene의 Analyzer 클래스를 설정하여서 다양한 텍스트 인덱싱하
 
 ### Indexing File size
 먼저 Storage 사용량을 측정해보았습니다.
+<figure class="half">
+    <img src="../../images/fulltext-5000.png">
+    <img src="../../images/fulltext-10000.png">
+    <figcaption>Index 저장 용량</figcaption>
+</figure>
 
 #### Indexing Speed
 - 4284.989746 documents/second

@@ -1,4 +1,23 @@
+---
+layout: post
+title: Full Text Search 해봤나요?
+categories: blog
+excerpt: Elasticsearc 없이 full-text search하기
+tags: [fulltest, search, hibernate, tokenizer]
+image:
+  feature: 
+comments: true
+share: true
+toc: true
+modified: 2018-03-07T12:20:00+09:00
+---
+
 ## Full-text Search
+<figure class="half">
+    <img src="../images/fulltextsearch.jpg">
+    <figcaption>Full-text Search</figcaption>
+</figure>
+
 서점 관리 프로그램에선 책이름을 데이터 베이스에 저장하고 있습니다. 책 중에 "Refactoring: Improving the Design of Existing Code"라는 책이 있다고 한다면 사용자는 책의 정확한 제목보다는 비슷한 단어, 예를 들어 "refactor", "refactors", "refactored" , "refactoring"과 같은 단어를 사용하여 책을 찾고 싶어할 것입니다. 이와 같은 검색 기법을 “Word stemming”이라고 한다. 한국말로 “어간 추출”이다. 즉, 어근이 같은 관련 단어들을 이용하여 찾아내는 것입니다. 
 
 Full-Text 검색은 텍스트를 다양한 방식으로 미리 분석하여 인덱싱을 해놓고 빠르게 자료를 검색해내는 기법을 말합니다. 위의 예와 같이 어근일 수도 있고, 비슷한 의미의 단어일 수도 있고, 반대말일 수도 있습니다. 한가지 공통된 특징은 텍스트를 검색 대상으로 하며, 사전에 관련 데이터를 가지고 인덱싱이 되어 있어야 한다는 것입니다.
@@ -34,8 +53,7 @@ Lucene의 Analyzer 클래스를 설정하여서 다양한 텍스트 인덱싱하
  지원하는 언어가 제한적이라는 것이 문제입니다. 그래도 한글에 대한 프로젝트들이 간간히 보입니다.
  
 [한글 형태소 분석기 프로젝트](https://github.com/juncon/arirang.lucene-analyzer-5.0.0)
- 
- 
+
 ## Performace
 실제 프로젝트에 사용하기 위해서 lucene이 기존 시스템에 미치는 영향을 분석해야 합니다.  Lucene을 적용할 경우 변경되는 사항은 바로 indexing 관련된 추가적인 Disk/CPU 사용입니다.
 

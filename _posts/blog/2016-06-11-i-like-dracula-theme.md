@@ -27,7 +27,7 @@ git clone https://github.com/dracula/terminal.app.git
 ~~~
 
 <figure class="half">
-    <img src="http://blog.ryanjin.net/images/terminal_setting.png">
+    <img src="http://atinjin.github.io/images/terminal_setting.png">
     <figcaption>Preferences of Terminal</figcaption>
 </figure>
 

@@ -2,7 +2,7 @@
 layout: post
 title: Microservice 나도 만든다.
 categories: blog
-excerpt: 개발자라면 마크다운 쓰기
+excerpt: Monolith에서 Microservice로
 tags: [microservice, monolith, architecture, ]
 image:
   feature: 

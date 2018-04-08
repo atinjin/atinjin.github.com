@@ -1,19 +1,24 @@
 ---
 layout: post
-title: Read-a-korean-book-at-kindle
+title: 킨들에서 한글책 읽어봤나?
 categories: 
-excerpt: Read-a-korean-book-at-kindle
-tags: [kindle, 킨들, 한국책]
+excerpt: 킨들에서 국내서적 일고 싶은 분, 손?
+tags: [kindle, 킨들, 한국책, korean, book, ebook, calibre, dedrm]
 comments: true
 share: true
 image:
-  feature: so-simple-sample-image-5.jpg
+  feature: ../../images/kindle-korean-book.jpg
 author: 
 date: 2018-04-08T20:19:00+09:00
 modified:
 ---
 
 # Kindle 너무 좋은데, 한글책도 넣고 싶다.
+
+<figure class="half">
+  <img src="../../images/kindle-korean-book.jpg"/>
+  <figcaption>국내 서적 넣기 성공</figcaption>
+</figure>
 
 킨들로 주로 amazon이나 manning 책을 보는데 국내 서적도 넣고 읽고 싶을때가 많다. 방법을 찾던 중 Adobe Digital과 Calibre를 사용하여 Kindle Mobi 파일을 만들 수 있는 방법을 찾았다. 이를 정리해보았다.
 
